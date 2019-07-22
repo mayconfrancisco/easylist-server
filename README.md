@@ -21,3 +21,6 @@ _Para iniciar a aplicação_
 **Mongoose** como ODM da App
 
 **Express-validation, express-async-handler e joi** para lidar com as validações da requisição e exceções da API
+
+
+--
